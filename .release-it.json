@@ -1,6 +1,9 @@
 {
   "$schema": "https://unpkg.com/release-it/schema/release-it.json",
   "github": {
-    "release": true
+    "release": true,
+    "owner": "hosein2rd",
+    "repo": "semi-circle-progress-bar-react",
+    "tokenRef": "GITHUB_TOKEN"
   }
 }
