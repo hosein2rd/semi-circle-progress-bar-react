@@ -23,7 +23,8 @@
     "dev": "vite",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -52,7 +53,7 @@
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.0.1",
     "prettier": "^3.6.2",
-    "release-it": "^19.2.2",
+    "release-it": "^19.2.4",
     "typescript": "^5.9.3",
     "vite": "^7.1.10"
   },
