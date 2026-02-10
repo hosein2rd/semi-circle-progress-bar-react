@@ -1,4 +1,4 @@
-import React, { useMemo, memo } from "react";
+import React, { useMemo } from "react";
 
 const defaults = {
   fontFamily: "monospace",
@@ -186,5 +186,3 @@ export const SemiCircularProgress = ({
     </svg>
   );
 };
-
-export default memo(SemiCircularProgress);
